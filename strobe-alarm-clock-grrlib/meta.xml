@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<app version="0.0.6">
+	<name>strobe alarm clock</name>
+	<version>0.0.6</version>
+	<coder>Mouse</coder>
+	<short_description>strobe alarm clock</short_description>
+	<long_description>alarm clock that will flash your screen and rumble your wiimote. it use grrlib 4.0 for fonts and colors</long_description>
+</app>
+

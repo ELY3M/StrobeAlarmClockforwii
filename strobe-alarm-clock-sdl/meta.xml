@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<app version="0.0.3">
+	<name>strobe alarm clock SDL</name>
+	<version>0.0.3</version>
+	<coder>Mouse</coder>
+	<short_description>strobe alarm clock SDL</short_description>
+	<long_description>alarm clock that will flash your screen and rumble your wiimote. it use SDL for fonts and colors.</long_description>
+</app>
+
